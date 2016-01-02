@@ -4,7 +4,7 @@ A few sample bots and scrapers. Most of the scrapers are written in Python. I mo
 ## Running the scraper/ bot.
 1. Clone the repository.
 2. Install requirements `pip install -r requirements.txt`
-3. Browse to the corresponding directory and modify config_sample.py as required. Save it as config.py
+3. Browse to the corresponding directory and modify `config_sample.py` as required. Save it as config.py
 4. Run the scraper or crawler.
 
 ### Python environment

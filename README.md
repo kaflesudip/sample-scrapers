@@ -9,7 +9,7 @@ A few sample bots and scrapers. Most of the scrapers are written in Python. I mo
 
 ## Other projects / Scrapers:
 
-	1. Scraping of Top 10 beauty sites in UK - [https://github.com/kaflesudip/BeautyProductsScraping](https://github.com/kaflesudip/BeautyProductsScraping)
+1. Scraping of Top 10 beauty sites in UK - [https://github.com/kaflesudip/BeautyProductsScraping](https://github.com/kaflesudip/BeautyProductsScraping)
 
 ### Python environment
 The scrapers are written in Python3 unless or otherwise specified in their corresponding directory.
